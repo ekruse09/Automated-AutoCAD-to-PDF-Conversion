@@ -1,0 +1,20 @@
+-PLOT
+Detailed Plot Configuration?: 
+Layout Name: 
+Output Device: 
+Paper Size: 
+Paper Units: 
+Drawing Orientation: 
+Plot Upside Down?: 
+Plot Area: 
+Plot Scale: 
+Plot Offset: 
+Plot with Plot Styles: 
+Plot Style Table Name: 
+Object Lineweights: 
+Scale Lineweights?: 
+Plot Paper Space First?: 
+Hide Paper Space Objects?: 
+
+Save Changes to Page Setup?: 
+Proceed With Plot?: 
